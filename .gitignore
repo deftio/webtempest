@@ -1,0 +1,21 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build artifacts
+dist/
+build/
+out/
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore logs
+*.log
+
+# Ignore package-lock.json (if using npm)
+package-lock.json
+
+# Ignore yarn.lock (if using Yarn)
+yarn.lock
