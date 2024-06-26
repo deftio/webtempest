@@ -5,6 +5,8 @@ A simple browser-based game inspired by the classic arcade game “Tempest.”
 Clone the repository:
 git clone https://github.com/yourusername/tempest-game.git
 
+Try it here: [webtempest](https://deftio.github.io/webtempest/)
+
 ## Install dependencies:
 npm install
 
